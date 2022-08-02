@@ -1,5 +1,12 @@
-# Versiones
+# Versions
 React 18.2.0
+Firebase 9
+Bootstrap 5.2
+## documentation
+
+https://console.firebase.google.com/
+https://firebase.google.com/docs/database/web/read-and-write
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
