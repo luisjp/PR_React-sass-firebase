@@ -1,8 +1,9 @@
 # Versions
 React 18.2.0
-Firebase 9
+Firebase 9 with Webpack
 Bootstrap 5.2
 ## documentation
+Chat creation with Firebase persistence as real-time database
 
 https://console.firebase.google.com/
 https://firebase.google.com/docs/database/web/read-and-write
